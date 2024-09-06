@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dechlousea.github.io/sitemap.html.gz
+Sitemap: https://dechlousea.github.io/app/sitemap.html.gz
+Sitemap: https://dechlousea.github.io/assets/sitemap.html.gz
+Sitemap: https://dechlousea.github.io/css/sitemap.html.gz
+Sitemap: https://dechlousea.github.io/includes/sitemap.html.gz
+Sitemap: https://dechlousea.github.io/item/sitemap.html.gz
+Sitemap: https://dechlousea.github.io/src/sitemap.html.gz
